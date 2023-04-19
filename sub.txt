@@ -1,1 +1,1 @@
-This is a subraction file.
+This is a subraction file. 2 variables 10 and 20.
